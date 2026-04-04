@@ -101,19 +101,19 @@ def main():
         print("5-Delete")
         print("0-Exit")
 
-        c = input("Choose: ")
+        ch = input("Choose: ")
 
-        if c == "1":
+        if ch == "1":
             search()
-        elif c == "2":
+        elif ch == "2":
             insert()
-        elif c == "3":
+        elif ch == "3":
             bulk_insert()
-        elif c == "4":
+        elif ch == "4":
             pagination()
-        elif c == "5":
+        elif ch == "5":
             delete()
-        elif c == "0":
+        elif ch == "0":
             break
 
 
