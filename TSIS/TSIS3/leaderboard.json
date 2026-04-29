@@ -5,6 +5,16 @@
         "name": "Player"
     },
     {
+        "score": 151,
+        "distance": 11291,
+        "name": "Player"
+    },
+    {
+        "score": 88,
+        "distance": 6232,
+        "name": "Player"
+    },
+    {
         "score": 57,
         "distance": 3628,
         "name": "Player"
@@ -15,38 +25,28 @@
         "name": "Player"
     },
     {
+        "score": 40,
+        "distance": 2493,
+        "name": "Player"
+    },
+    {
+        "score": 36,
+        "distance": 2263,
+        "name": "Player"
+    },
+    {
         "score": 33,
         "distance": 2072,
         "name": "Player"
     },
     {
+        "score": 29,
+        "distance": 1851,
+        "name": "Player"
+    },
+    {
         "score": 24,
         "distance": 1500,
-        "name": "Player"
-    },
-    {
-        "score": 23,
-        "distance": 1456,
-        "name": "Player"
-    },
-    {
-        "score": 20,
-        "distance": 1312,
-        "name": "Nurdana"
-    },
-    {
-        "score": 16,
-        "distance": 1016,
-        "name": "Player"
-    },
-    {
-        "score": 16,
-        "distance": 1028,
-        "name": "Player"
-    },
-    {
-        "score": 14,
-        "distance": 911,
         "name": "Player"
     }
 ]
