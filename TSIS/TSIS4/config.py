@@ -6,6 +6,6 @@ FPS = 10
 
 DB_NAME = "snake_db"
 DB_USER = "postgres"
-DB_PASSWORD = "Postgreaya2025"
+DB_PASSWORD = "password"
 DB_HOST = "localhost"
 DB_PORT = 5432
